@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "vector": "cpp",
-        "locale": "cpp"
+        "locale": "cpp",
+        "unordered_set": "cpp"
     }
 }
